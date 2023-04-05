@@ -13,6 +13,7 @@ export default {
   name: 'Dashboard',
   data() {
     return {
+      name: 'hello git',
       value: new Date()
     }
   },
